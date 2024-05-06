@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+.menu{
+  background-color:  #6B2E38;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 150px;
+ 
+}
+
+
+
+.logo{
+  width: 200px;
+}
+
+.menu a{
+  color: #f4eeed;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.opcoes{
+  text-align: center;
+  color: rgb(223, 223, 223);
+}
+
+.loja{
+  text-align: left;
+  margin-top: 135px;
+  margin-left: 25ch ;
+  bottom: 12%;
+  background-position: 100%;
+}
+
+.nome{
+  margin-left: left;
+
+}
+
+
